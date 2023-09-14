@@ -1,9 +1,9 @@
-* {
+/* * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
-}
+} */
 
 /* --------------------------
 --------------header start----------------- */
@@ -415,23 +415,23 @@ header hr {
 
 
 
-main {
+/* main {
     background: #F3F3F6;
     width: 1920px;
     padding-top: 94px;
-}
+} */
 
 /* -------------------------------
 --------------------------main section start---------------- */
 
 
-.container2 {
+/* .container2 {
     width: 1590px;
     margin-left: 165px;
     background-image: url(../Rectangle-img/Rectangle\ 77.png);
     background-repeat: no-repeat;
     background-size: cover;
-}
+} */
 
 .boss {
     display: flex;
@@ -1812,4 +1812,13 @@ form.form-details {
 
 .hide{
     display: none;
+}
+
+
+.image-01{
+    background-image: url(../img/MicrosoftTeams-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100px;
+    width: 100px;
 }
