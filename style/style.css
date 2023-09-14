@@ -1815,10 +1815,9 @@ form.form-details {
 }
 
 
-.image-01{
-    background-image: url(../img/MicrosoftTeams-1.png);
+.image-background{
+    background-image: url(../Background-image/Group\ 22.png);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100px;
-    width: 100px;
+    height: 100vh;
 }
